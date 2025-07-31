@@ -39,7 +39,3 @@ To run the project, follow these steps:
     - `data.py`
     - `data.csv`
     - `requirements.txt`
-
-
-```bash
-python clustering.py
