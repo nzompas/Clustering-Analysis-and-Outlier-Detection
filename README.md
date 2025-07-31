@@ -1,6 +1,6 @@
 # Clustering Analysis & Outlier Detection Using KMeans, Hierarchical Clustering and DBSCAN
 
-This project performs clustering analysis and outlier detection on a 2D dataset of 1378 data points using a combination of KMeans, hierarchical clustering, and DBSCAN. The implementation is done in Python with data visualization, metric evaluation, and multiple methods for identifying outliers.
+This project performs clustering analysis and outlier detection on a 2D dataset of data points using a combination of KMeans, hierarchical clustering, and DBSCAN. The implementation is done in Python with data visualization, metric evaluation, and multiple methods for identifying outliers.
 
 ## 📊 Key Features
 
