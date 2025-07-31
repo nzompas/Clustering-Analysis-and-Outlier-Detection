@@ -1,7 +1,3 @@
-# Νικόλαος Ζομπάς, 4169
-# Εριφύλη Λουκοπούλου, 4196
-# Το άθροισμα των ΑΕΜ μας είναι μονός αριθμός
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
